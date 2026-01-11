@@ -29,7 +29,7 @@
 
 ## 🗂 Project Structure
 
-RN-KNN/
+RN-KNN/ <br>
 ├── Fase1/ # Data preparation and initial exploration <br>
 ├── Fase2-KNN/ # k-NN algorithm implementation and testing <br>
 ├── Fase2-RN/ # Neural Network implementation and training <br>
